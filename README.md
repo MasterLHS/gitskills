@@ -1,1 +1,2 @@
 # gitskills
+#clone from origin
